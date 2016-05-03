@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 ewrwere
-=======
 fsdafsd
->>>>>>> 75b88f8... change2
+ewrwere
+fsdafsd
 fdsfdsafdsf
 sfgsdgfgffdfs
