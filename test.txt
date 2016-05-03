@@ -1,3 +1,5 @@
 ewrwere
+fsdafsd
+>>>>>>> feature1
 fdsfdsafdsf
 sfgsdgfgffdfs
